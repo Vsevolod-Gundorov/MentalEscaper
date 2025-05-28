@@ -700,6 +700,8 @@ document.querySelectorAll('input').forEach(input => {
 <script>
     // Конфигурация OpenAI
     const OPENAI_CONFIG = {
+        API_KEY: "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", // Получите на platform.openai.com
+        ENDPOINT: "https://api.openai.com/v1/chat/completions",
         MODEL: "gpt-3.5-turbo",
         MAX_TOKENS: 500
     };

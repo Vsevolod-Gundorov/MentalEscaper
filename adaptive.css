@@ -1,0 +1,2003 @@
+@media only screen and (max-width: 1600px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+    text-decoration: none;
+    display: inline-block;
+    right: 1200px; top: 20px;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: black;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    width: 240px;
+    text-align: center;
+    text-shadow: black 15px 15px 10px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 240px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 240px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 500px;
+  padding:15px;
+  height: 600px;
+  font-size: 27px;
+  background-color: none;
+  left: 500px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: -25px;
+  bottom: 0px;
+  left: 1050px;
+  width: 450px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: -500px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: -250px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: 20px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 420px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+right: 50px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 420px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 250px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 60px;
+        right: 50px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 420px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+@media only screen and (max-width: 1536px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+    text-decoration: none;
+    display: inline-block;
+    right: 1200px; top: 20px;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: black;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    width: 240px;
+    text-align: center;
+    text-shadow: black 15px 15px 10px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 240px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 240px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 500px;
+  padding:15px;
+  height: 600px;
+  font-size: 27px;
+  background-color: none;
+  left: 500px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: -25px;
+  bottom: 0px;
+  left: 1050px;
+  width: 450px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: -500px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: -250px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: 20px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 420px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+right: 50px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 420px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 250px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 60px;
+        right: 50px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 420px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+@media only screen and (max-width: 1440px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+    text-decoration: none;
+    display: inline-block;
+    right: 1200px; top: 20px;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: black;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    width: 240px;
+    text-align: center;
+    text-shadow: black 15px 15px 10px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 240px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 240px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 500px;
+  padding:15px;
+  height: 600px;
+  font-size: 27px;
+  background-color: none;
+  left: 500px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: -25px;
+  bottom: 0px;
+  left: 1000px;
+  width: 450px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: -520px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: -270px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  top: 0px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 22px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 420px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+right: 50px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 420px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 250px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 60px;
+        right: 50px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 420px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+@media only screen and (max-width: 1366px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px 15px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 200px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 20px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px 15px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 200px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 20px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px 15px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 200px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 20px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 450px;
+  padding:15px;
+  height: 600px;
+  font-size: 20px;
+  background-color: none;
+  left: 420px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: -25px;
+  bottom: 0px;
+  left: 900px;
+  width: 400px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 900px;
+  top: -400px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 18px;
+  font-size: 17px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 900px;
+  top: -220px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 18px;
+  font-size: 17px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 900px;
+  top: -30px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 18px;
+  font-size: 17px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 350px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+right: 50px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 350px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 200px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 60px;
+        right: 50px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 350px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+
+@media only screen and (max-width: 1280px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px 15px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 200px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 20px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px 15px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 200px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 20px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px 15px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 200px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 20px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 450px;
+  padding:15px;
+  height: 600px;
+  font-size: 20px;
+  background-color: none;
+  left: 420px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: -25px;
+  bottom: 0px;
+  left: 900px;
+  width: 400px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 900px;
+  top: -400px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 18px;
+  font-size: 17px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 900px;
+  top: -220px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 18px;
+  font-size: 17px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 900px;
+  top: -30px;
+  width: 300px;
+
+
+  letter-spacing: 2px;
+  line-height: 18px;
+  font-size: 17px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 350px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+right: 50px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 350px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 200px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 60px;
+        right: 50px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 350px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+@media only screen and (max-width: 1024px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+  text-decoration: none;
+  display: inline-block;
+  right: 1200px; top: 20px;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px 10px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  width: 140px;
+  text-align: center;
+  text-shadow: black 15px 15px 10px;
+  font-size: 15px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+text-decoration: none;
+display: inline-block;
+right: 1200px; top: 20px;
+color: white;
+padding: 10px 20px;
+margin: 5px 10px;
+border-radius: 30px;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+letter-spacing: 2px;
+background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+width: 140px;
+text-align: center;
+text-shadow: black 15px 15px 10px;
+font-size: 15px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+text-decoration: none;
+display: inline-block;
+right: 1200px; top: 20px;
+color: white;
+padding: 10px 20px;
+margin: 5px 10px;
+border-radius: 30px;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+letter-spacing: 1px;
+background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+width: 140px;
+text-align: center;
+text-shadow: black 15px 15px 10px;
+font-size: 15px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 400px;
+  padding:15px;
+  height: 400px;
+  font-size: 15px;
+  background-color: none;
+  left: 300px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: -25px;
+  bottom: 0px;
+  left: 700px;
+  width: 300px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 700px;
+  top: -490px;
+  width: 250px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 14px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 700px;
+  top: -360px;
+  width: 250px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 14px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 700px;
+  top: -210px;
+  width: 250px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 14px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 300px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+left: -30px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 250px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 180px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 70px;
+        left: -30px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 250px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+
+@media only screen and (max-width: 768px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+    text-decoration: none;
+    display: inline-block;
+    right: 1200px; top: 20px;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: black;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    width: 140px;
+    text-align: center;
+    text-shadow: black 15px 15px 10px;
+    font-size: 15px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+text-decoration: none;
+display: inline-block;
+right: 1200px; top: 20px;
+color: white;
+padding: 10px 20px;
+margin: 5px 10px;
+border-radius: 30px;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+letter-spacing: 2px;
+background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+width: 140px;
+text-align: center;
+text-shadow: black 15px 15px 10px;
+font-size: 15px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+text-decoration: none;
+display: inline-block;
+right: 1200px; top: 20px;
+color: white;
+padding: 10px 20px;
+margin: 5px 10px;
+border-radius: 30px;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+letter-spacing: 1px;
+background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+width: 140px;
+text-align: center;
+text-shadow: black 15px 15px 10px;
+font-size: 15px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 240px;
+  padding:15px;
+  height: 600px;
+  font-size: 15px;
+  background-color: none;
+  left: 300px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: 0px;
+  bottom: 0px;
+  left: 530px;
+  width: 230px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 530px;
+  top: -750px;
+  width: 190px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 12px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 530px;
+  top: -600px;
+  width: 190px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 12px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  bottom: 300px;
+  left: 530px;
+  top: -430px;
+  width: 190px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 12px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 600px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+left: -30px;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 250px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 24px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 450px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 70px;
+        left: -30px;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 6px;
+  width: 250px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 24px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+}
+
+
+@media only screen and (max-width: 414px)
+{
+  header {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  top: 20px;
+  }
+
+  .overlayLink {
+    text-decoration: none;
+    position: absolute;
+    right: -130px; top: 10px;
+    color: white;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: black;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    width: 140px;
+    text-align: center;
+    text-shadow: black 15px 15px 10px;
+    font-size: 15px;
+  }
+  .overlayLink:hover {
+  background-position: right center;
+  }
+
+.overlayLink1 {
+text-decoration: none;
+position: absolute;
+right: -130px; top: 20px;
+color: white;
+border-radius: 30px;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+letter-spacing: 2px;
+background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+width: 140px;
+text-align: center;
+text-shadow: black 15px 15px 10px;
+font-size: 15px;
+}
+.overlayLink1:hover {
+background-position: right center;
+}
+
+.overlayLink8 {
+text-decoration: none;
+position: absolute;
+right: -130px; top: 30px;
+color: white;
+border-radius: 30px;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+letter-spacing: 1px;
+background-image: linear-gradient(to right, #191970 0%, #0000CD 51%, #00BFFF 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+width: 140px;
+text-align: center;
+text-shadow: black 15px 15px 10px;
+font-size: 15px;
+}
+.overlayLink8:hover {
+background-position: right center;
+}
+
+.box-with-shadow
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  top: 0px;
+  width: 350px;
+  padding:15px;
+  height: 280px;
+  font-size: 12px;
+  background-color: none;
+  left: 20px;
+  top: 210px;
+}
+
+.box-with-shadow:hover
+{
+  box-shadow: 0px 0px 5px 20px rgba(0, 0, 0, .2);
+}
+
+img
+{
+  position: relative;
+  top: 0px;
+  bottom: 0px;
+  left: 170px;
+  width: 230px;
+  float: left;
+
+}
+
+
+div.overlay4 > div.advices-wrapper > div.advices-content
+{
+  position: relative;
+  left: 190px;
+  top: -400px;
+  width: 150px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 10px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay5 > div.affirm-wrapper > div.affirm-content
+{
+  position: relative;
+  left: 190px;
+  top: -380px;
+  width: 150px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 10px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+
+div.overlay6 > div.lessons-wrapper > div.lessons-content
+{
+  position: relative;
+  left: 190px;
+  top: -380px;
+  width: 150px;
+
+
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-size: 10px;
+  text-shadow: black 15px 15px 10px;
+  color: #fff;
+  border-width: 3px;
+  border-color: #000;
+}
+
+div.overlay
+{
+bottom: 310px;
+display: flex;
+justify-content: center;
+left: ;
+position: fixed;
+top: 70px;
+left: -30px;
+z-index: 100;
+}
+
+div.overlay > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 4px;
+  width: 250px;
+}
+
+  div.overlay > div.login-wrapper > div.login-content
+  {
+      background-color: rgb(255,255,255);
+      border-radius: 2px;
+      padding: 1px;
+      position: relative;
+  }
+
+      div.overlay > div.login-wrapper > div.login-content > h3
+      {
+          color: rgb(0,0,0);
+          font-family: 'Roboto', sans-serif;
+          font-size: 1.8em;
+          margin: 0 0 1.25em;
+          padding: 0;
+      }
+
+      div.overlay1
+      {
+        bottom: 200px;
+        display: flex;
+        justify-content: center;
+        left: ;
+        position: fixed;
+        top: 70px;
+        left: -30px;
+        z-index: 100;
+      }
+
+div.overlay1 > div.login-wrapper
+{
+  align-self: center;
+  background-color: rgba(0,0,0,.25);
+  border-radius: 2px;
+  padding: 1px;
+  width: 250px;
+}
+
+    div.overlay1 > div.login-wrapper > div.login-content
+    {
+        background-color: rgb(255,255,255);
+        border-radius: 2px;
+        padding: 1px;
+        position: relative;
+    }
+
+        div.overlay1 > div.login-wrapper > div.login-content > h3
+        {
+            color: rgb(0,0,0);
+            font-family: 'Roboto', sans-serif;
+            font-size: 1.8em;
+            margin: 0 0 1.25em;
+            padding: 0;
+        }
+
+    .shapka
+    {
+      font-family: 'Roboto', sans-serif;
+      font-weight: bold;
+      top: 0px;
+      width: 350px;
+      padding:15px;
+      height: 400px;
+      font-size: 35px;
+      color: black;
+      background-color: none;
+      left: 400px;
+      top: 150px;
+      text-align: center;
+    }
+
+}
